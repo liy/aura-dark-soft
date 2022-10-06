@@ -1,0 +1,21 @@
+{
+  "name": "aura-dark-soft-text-soft-hint",
+  "displayName": "aura-dark-soft-text-soft-hint",
+  "description": "Aura dark (soft text) with soft inlay hint",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "aura dark soft text soft hint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-dark-soft-text-soft-hint-color-theme.json"
+      }
+    ]
+  }
+}

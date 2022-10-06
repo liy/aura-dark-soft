@@ -2,6 +2,8 @@
   "name": "aura-dark-soft-text-soft-hint",
   "displayName": "aura-dark-soft-text-soft-hint",
   "description": "Aura dark (soft text) with soft inlay hint",
+  "repository": "https://github.com/liy/aura-dark-soft",
+  "publisher": "liy8272",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
